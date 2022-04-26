@@ -6,6 +6,9 @@ In order to be able to use these Python scripts there are some steps needed as p
 1. First make sure that you have Python v.3+ installed on your computer  
    you can check via CMD (command prompt) with ```py -V```  
    if you cannot find any version of Python on your pc, make sure you install it  
+   if you install it and still cannot find the version via cmd  
+   make sure you are in the right path, for me it worked with ```cd C:\Users\MyUsername\```  
+   the above line in CMD should provide you the correct path to check with ```py -V```  
 2. Make sure that you have "pip" installed & upgraded  
    you can directly write via CMD ```py -m pip install --upgrade pip```  
    you can also check the version of pip with ```py -m pip --version```  
