@@ -20,7 +20,7 @@ In order to be able to use these Python scripts there are some steps needed as p
    you should see a lot of download & successful installation messages  
 
 :exclamation: Make sure that you add the "atlassian-python-api" package to your IDE in order to run the scripts   
-I personally use PyCharm, adding the package you installed at step 5 is eazy:  
+I personally use PyCharm, adding the package you installed at step 4 is eazy:  
   * Go to File -> Settings -> find "Project: pythonProject"  
     -> select Python Interpreter  -> on the right side window pree the plus icon ":heavy_plus_sign:"  
     -> search for ```atlassian-python-api``` -> click on it and press "Install Package" :white_check_mark:
