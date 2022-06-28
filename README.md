@@ -1,5 +1,11 @@
 # void-jira-Python-REST
-A repo with Python REST API scripts for Jira Server & Data Center
+A repo with Python REST API scripts for Jira Server & Data Center  
+
+These scripts could not be created without the ```atlassian-python-api``` package  
+created by the awesome people from: https://github.com/atlassian-api  
+please give them a follow and you could find more information  
+on how you can create your own scripts using their documentation below:  
+https://atlassian-python-api.readthedocs.io/ 
 
 # Usage Guide
 In order to be able to use these Python scripts there are some steps needed as pre-condition:  
